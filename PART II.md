@@ -18,7 +18,10 @@ punctuating much easier.
 
 Even without POS tags, simpler modifications to code can be made to punctuate certain words properly.
 
-**Eg. Convert all "i" to "I" or convert "im" to "I'm"**
+**Eg 1. Convert all "i" to "I" or convert "im" to "I'm"** Don't worry this won't convert "impossible" to "I'mpossible", try it.
+
+**Eg 2. Uppercase the first letter of the paragraph, and full stop at the end**
 
 Some of these grammatic modifications are already present in my rulebook, you can add as many as you can think of and as long as 
-the .txt above is not changed, you won't need to re-test all the previous rule implementations.
+the .txt above is not changed, you won't need to re-test all the previous rule implementations. I could think of a lot more but then
+this project would take too much time.

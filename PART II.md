@@ -5,9 +5,9 @@
 I've made the code work with the 'Replacement Rulebook.txt' for that very reason. You can add or subtract rules as per
 your liking.
 
-You could censor foul language by typing **FUCK=****** 
+You could censor foul language by typing "**FUCK=******"
 
-Even expand texting abbreviations like **IYKWIM=if you know what I mean** or **LOL=laughing out loud**
+Even expand texting abbreviations like "**IYKWIM=if you know what I mean** or **LOL=laughing out loud**"
 
 ## For example, you may not have taken care of punctuation rules in the previous part of the exercise. Can you design in a way that such rules can be easily added without having to re-test all the previous rule implementations?
 

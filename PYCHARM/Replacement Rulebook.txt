@@ -1,0 +1,7 @@
+DOLLAR=$
+DOLLARS=$
+EURO=EUR
+EUROS=EUR
+FUCK=****
+I=I
+IM=I'm

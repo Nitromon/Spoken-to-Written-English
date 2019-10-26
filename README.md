@@ -54,3 +54,5 @@ some hundreds of thousands, the word 'and' also plays a buggy role. But this is 
 I took the time to make the code user friendly by allowing the code to run until stopped by the user. 
 Type Y or N to continue or exit the code makes it a lot more approachable and needed different ways to execute 
 in .ipynb and .py. You can also exit by typing 'exit'.
+
+*Examples of spoken english are already in the file 'Spoken English Examples.txt' that use as many of the functions as possible to showcase what my code can do.*

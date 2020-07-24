@@ -1,22 +1,18 @@
 # Spoken to Written English:
-
-Hello there, Aganitha Team! This is my submission for your programming exercise, to be submitted by 27th Oct 2019.
-
 ## How to run this code:
 
 There's 2 folders IPYNB and PYCHARM, each containing one file containing code, and another containing the rules.
 Both need to be in the same folder to work.
 
-You can dump the contents of the IPYNB folder into a Jupyter notebook, or run the 'Aganitha Assignment 1.ipynb' 
+You can dump the contents of the IPYNB folder into a Jupyter notebook, or run the 'Assignment 1.ipynb' 
 in Google Colab, and upload (drag-drop) the 'Replacement Rulebook.txt' into the sidebar as shown in the .jpg
 files in root directory. Run with Python 3 kernel.
 
 If you use PyCharm or a similar IDE, you can simply open the entire folder as a project, and start by running 
-'Aganitha Assignment 1.py'. The code uses regex and csv, so please install them if required. This file can run
+'Assignment 1.py'. The code uses regex and csv, so please install them if required. This file can run
 using Python 3.7 interpreter.
 
 ## Features of this Code:
-
 This code uses three functions to process the text input to output.
 
 **Repeater:** 
